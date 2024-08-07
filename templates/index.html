@@ -13,21 +13,31 @@
             text-align: left;
             border-bottom: 1px solid #ddd;
         }
-        tr:hover .author-details {
-            display: block;
-        }
-        .author-details {
-            display: none;
-            position: absolute;
-            background-color: #f9f9f9;
+        .progress-bar {
+            width: 100%;
+            background-color: #f3f3f3;
             border: 1px solid #ddd;
-            padding: 10px;
-            z-index: 1000;
+            border-radius: 4px;
+            overflow: hidden;
+            margin-bottom: 20px;
+        }
+        .progress-bar-fill {
+            height: 24px;
+            background-color: #4caf50;
+            width: 0;
+            transition: width 0.5s;
         }
     </style>
 </head>
 <body>
     <h1>Authors</h1>
+    <form method="post" action="/save">
+        <button type="submit">Save</button>
+    </form>
+    <div class="progress-bar">
+        <div class="progress-bar-fill" style="width: {{ completion_percentage }}%;"></div>
+    </div>
+    <p>{{ completion_percentage }} completed</p>
     <table>
         <tr>
             <th>Author</th>
@@ -38,21 +48,7 @@
         </tr>
         {% for index, row in authors.iterrows() %}
         <tr>
-            <td class="author-row">
-                <a href="/details/{{ row.Author }}">{{ row.Author }}</a>
-                <!-- <div class="author-details">
-                    <h3>Citing Publications</h3>
-                    <table>
-                        <tr>
-                            <th>Publication</th>
-                            <th>Citing Publication</th>
-                            <th>Authors</th>
-                            <th>Num Authors</th>
-                        </tr>
-                        <tbody id="details-{{ row.Author }}"></tbody>
-                    </table>
-                </div> -->
-            </td>
+            <td><a href="/details/{{ row.Author }}">{{ row.Author }}</a></td>
             <td>{{ row.affiliation }}</td>
             <td>{{ row.domain }}</td>
             <td>{{ row.country }}</td>
@@ -60,33 +56,8 @@
         </tr>
         {% endfor %}
     </table>
-    <br>
-    <!-- <a href="/add_author">Add a New Author</a><br> -->
-    <a href="/save">Save Data</a><br>
-    <a href="/close">Close Application</a>
-    <script>
-        document.querySelectorAll('.author-row').forEach(row => {
-            row.addEventListener('mouseover', function() {
-                const author = this.querySelector('a').textContent;
-                const detailsDiv = this.querySelector('.author-details');
-                if (!detailsDiv.querySelector('tbody').hasChildNodes()) {
-                    fetch(`/details/${author}`)
-                        .then(response => response.json())
-                        .then(data => {
-                            let detailsHtml = '';
-                            data.forEach(item => {
-                                detailsHtml += `<tr>
-                                    <td>${item['Publication']}</td>
-                                    <td>${item['Cited Publication']}</td>
-                                    <td>${item['Authors']}</td>
-                                    <td>${item['Num authors']}</td>
-                                </tr>`;
-                            });
-                            detailsDiv.querySelector('tbody').innerHTML = detailsHtml;
-                        });
-                }
-            });
-        });
-    </script>
+    <form method="post" action="/save">
+        <button type="submit">Save</button>
+    </form>
 </body>
 </html>
