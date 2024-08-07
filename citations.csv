@@ -1,0 +1,104 @@
+Publication,Cited Publication,Authors
+Byzantine resilience with reputation scores,Byzantine machine learning: A primer,R Guerraoui;N Gupta;R Pinot
+Byzantine resilience with reputation scores,Collaborative fairness in federated learning,L Lyu;X Xu;Q Wang;H Yu
+Byzantine resilience with reputation scores,Byzantine machine learning made easy by resilient averaging of momentums,S Farhadkhani;R Guerraoui;N Gupta
+Byzantine resilience with reputation scores,"Variance reduction is an antidote to byzantines: Better rates, weaker assumptions and communication compression as a cherry on the top",E Gorbunov;S Horváth;P Richtárik;G Gidel
+Byzantine resilience with reputation scores,HeteroSAg: Secure aggregation with heterogeneous quantization in federated learning,AR Elkordy;AS Avestimehr
+Byzantine resilience with reputation scores,Practical differentially private and byzantine-resilient federated learning,Z Xiang;T Wang;W Lin;D Wang
+Byzantine resilience with reputation scores,Communication compression for byzantine robust learning: New efficient algorithms and improved rates,A Rammal;K Gruntkowska;N Fedin
+Byzantine resilience with reputation scores,Towards building a robust and fair federated learning system,X Xu;L Lyu
+Byzantine resilience with reputation scores,Basil: A fast and byzantine-resilient approach for decentralized training,AR Elkordy;S Prakash
+Byzantine resilience with reputation scores,Byzantine robustness and partial participation can be achieved simultaneously: Just clip gradient differences,G Malinovsky;P Richtárik;S Horváth
+Byzantine resilience with reputation scores,Signguard: Byzantine-robust federated learning through collaborative malicious gradient filtering,J Xu;SL Huang;L Song;T Lan
+Byzantine resilience with reputation scores,Secure federated learning against model poisoning attacks via client filtering,DN Yaldiz;T Zhang;S Avestimehr
+Byzantine resilience with reputation scores,Secure aggregation with heterogeneous quantization in federated learning,AR Elkordy;AS Avestimehr
+Byzantine resilience with reputation scores,Secure distributed training at scale,E Gorbunov;A Borzunov;M Diskin
+Byzantine resilience with reputation scores,Secure distributed optimization under gradient attacks,S Yu;S Kar
+Byzantine resilience with reputation scores,Privacy-Preserving Aggregation for Decentralized Learning with Byzantine-Robustness,AR Ghavamipour;BZH Zhao;O Ersoy
+Byzantine resilience with reputation scores,On the Conflict of Robustness and Learning in Collaborative Machine Learning,M Raynal;C Troncoso
+Byzantine resilience with reputation scores,Aspis: Robust detection for distributed learning,K Konstantinidis;A Ramamoorthy
+Byzantine resilience with reputation scores,Byzantine resilience with reputation scores,J Regatti;H Chen;A Gupta
+Byzantine resilience with reputation scores,BOBA: Byzantine-Robust Federated Learning with Label Skewness,W Bao;J Wu;J He
+Byzantine resilience with reputation scores,High dimensional distributed gradient descent with arbitrary number of byzantine attackers,P Zhao;Z Wan
+Byzantine resilience with reputation scores,Byzantine-Robust Decentralized Learning via Remove-then-Clip Aggregation,C Yang;J Ghaderi
+Byzantine resilience with reputation scores,A Reputation System for Provably-Robust Decision-Making in IoT Blockchain Networks,C Rawlins;S Jagannathan
+Byzantine resilience with reputation scores,Robust Distributed Gradient Aggregation Using Projections onto Gradient Manifolds,KI Kim
+Byzantine resilience with reputation scores,Byzantine-resilient Federated Low Rank Column-wise Compressive Sensing,AP Singh;N Vaswani
+Byzantine resilience with reputation scores,Detection and Mitigation of Byzantine Attacks in Distributed Training,K Konstantinidis;N Vaswani
+Byzantine resilience with reputation scores,Linear Scalarization for Byzantine-robust learning on non-IID data,L Errami;EH Bergou
+Byzantine resilience with reputation scores,Byzantine Resilient and Fast Federated Few-Shot Learning,AP Singh;N Vaswani
+Byzantine resilience with reputation scores,A Lightweight Machine-Learning Framework for Enhancing Security in IoT Blockchain Networks,CC Rawlins
+Byzantine resilience with reputation scores,Efficient Detection and Filtering Systems for Distributed Training,K Konstantinidis;A Ramamoorthy
+Byzantine resilience with reputation scores,Robust and Fair Distributed Learning,G Zhou
+Byzantine resilience with reputation scores,Byzantine-robust decentralized optimization for Machine Learning,W Cappelletti
+Consensus clustering with unsupervised representation learning,Learning representation for clustering via prototype scattering and positive sampling,Z Huang;J Chen;J Zhang
+Consensus clustering with unsupervised representation learning,Effective sample pairs based contrastive learning for clustering,J Yin;H Wu;S Sun
+Consensus clustering with unsupervised representation learning,Divclust: Controlling diversity in deep clustering,IM Metaxas;G Tzimiropoulos
+Consensus clustering with unsupervised representation learning,You never cluster alone,Y Shen;Z Shen;M Wang;J Qin
+Consensus clustering with unsupervised representation learning,Static and dynamic concepts for self-supervised video representation learning,R Qian;S Ding;X Liu;D Lin
+Consensus clustering with unsupervised representation learning,Self-supervised hypergraphs for learning multiple world interpretations,A Marcu;M Pirvu;D Costea;E Haller
+Consensus clustering with unsupervised representation learning,Enhancing self-supervised video representation learning via multi-level feature optimization,R Qian;Y Li;H Liu;J See;S Ding
+Consensus clustering with unsupervised representation learning,Deep clustering with consensus representations,L Miklautz;M Teuffenbach;P Weber
+Consensus clustering with unsupervised representation learning,GOCA: Guided online cluster assignment for self-supervised video representation learning,H Coskun;A Zareian;JL Moore;F Tombari
+Consensus clustering with unsupervised representation learning,Learning from label proportions with prototypical contrastive clustering,LEC La Rosa;DAB Oliveira
+Consensus clustering with unsupervised representation learning,On challenges in unsupervised domain generalization,V Narayanan;AA Deshmukh;U Dogan
+Consensus clustering with unsupervised representation learning,Representation learning for clustering via building consensus,AA Deshmukh;JR Regatti;E Manavoglu;U Dogan
+Consensus clustering with unsupervised representation learning,Enhancing Clustering Representations with Positive Proximity and Cluster Dispersion Learning,A Kumar;DG Lee
+Consensus clustering with unsupervised representation learning,Exploring non-contrastive representation learning for deep clustering,Z Huang;J Chen;J Zhang;H Shan
+Consensus clustering with unsupervised representation learning,Grid Feature Jigsaw for Self-supervised Image Clustering,Z Song;Z Hu;R Hong
+Consensus clustering with unsupervised representation learning,Grid Jigsaw Representation with CLIP: A New Perspective on Image Clustering,Z Song;Z Hu;R Hong
+Consensus clustering with unsupervised representation learning,Aircraft Trajectory Segmentation-based Contrastive Coding: A Framework for Self-supervised Trajectory Representation,T Phisannupawong;JJ Damanik;HL Choi
+Consensus clustering with unsupervised representation learning,Multi-Level Constrained Intra and Inter Subject Feature Representation for Facial Video Based BVP Signal Measurement,B Li;W Zhang;H Fu;H Liu;F Xu
+Consensus clustering with unsupervised representation learning,ContraCluster: Learning to Classify without Labels by Contrastive Self-Supervision and Prototype-Based Semi-Supervision,S Joe;B Kim;H Kang;K Park;B Kim
+Consensus clustering with unsupervised representation learning,Leveraging Hierarchical Similarities for Contrastive Clustering,Y Li;Y Xiao;X Wu;L Song;Y Liang;Y Zhou
+Consensus clustering with unsupervised representation learning,DivClust: Controlling Diversity in Deep Clustering,I Maniadis Metaxas;G Tzimiropoulos;I Patras
+Consensus clustering with unsupervised representation learning,Self-Organizing Representation Learning,N Kermiche
+A subjective evaluation of true 3D images,Evaluation of the concept of dynamic adaptive streaming of light field video,PA Kara;A Cserkaszky;MG Martini
+A subjective evaluation of true 3D images,No-reference light field image quality assessment exploiting saliency,K Lamichhane;M Neri;F Battisti
+A subjective evaluation of true 3D images,Beyond perceptual thresholds and personal preference: Towards novel research questions and methodologies of quality of experience studies on light field …,PA Kara;RR Tamboli;E Shafiee;MG Martini;A Simon
+A subjective evaluation of true 3D images,Super-multiview content with high angular resolution: 3D quality assessment on horizontal-parallax lightfield display,RR Tamboli;B Appina;S Channappayya
+A subjective evaluation of true 3D images,Recommendations on the viewing distance of light field displays,PA Kara;A Barsi;RR Tamboli
+A subjective evaluation of true 3D images,The effect of angular resolution and 3D rendering on the perceived quality of the industrial use cases of light field visualization,PA Kara;M Guindy;Q Xinyu;VA Szakal
+A subjective evaluation of true 3D images,One step closer to a better experience: Analysis of the suitable viewing distance ranges of light field visualization usage contexts for observers with reduced visual …,A Simon;PA Kara;M Guindy;X Qiu
+A subjective evaluation of true 3D images,"Angularly continuous light‐field format: concept, implementation, and evaluation",A Cserkaszky;PA Kara;RR Tamboli
+A subjective evaluation of true 3D images,Through a different lens: the perceived quality of light field visualization assessed by test participants with imperfect visual acuity and color blindness,A Simon;M Guindy;PA Kara
+A subjective evaluation of true 3D images,The perceived quality of light-field video services,PA Kara;RR Tamboli;A Cserkaszky
+A subjective evaluation of true 3D images,"Lessons Learned from Implementing Light Field Camera Animation: Implications, Limitations, Potentials, and Future Research Efforts",M Guindy;PA Kara
+A subjective evaluation of true 3D images,Objective quality assessment of 2D synthesized views for light-field visualization,RR Tamboli;PA Kara;N Bisht;A Barsi
+A subjective evaluation of true 3D images,The quality of experience of emerging display technologies,PA Kara
+Representation learning for clustering via building consensus,Divclust: Controlling diversity in deep clustering,IM Metaxas;G Tzimiropoulos
+Representation learning for clustering via building consensus,Neural manifold clustering and embedding,Z Li;Y Chen;Y LeCun;FT Sommer
+Representation learning for clustering via building consensus,On challenges in unsupervised domain generalization,V Narayanan;AA Deshmukh;U Dogan
+Representation learning for clustering via building consensus,Cluster analysis with deep embeddings and contrastive learning,R Sundareswaran;J Herrera-Gerena;J Just
+Representation learning for clustering via building consensus,Deep Probability Aggregation Clustering,Y Yan;N Lu;R Yan
+Representation learning for clustering via building consensus,A restarted large-scale spectral clustering with self-guiding and block diagonal representation,Y Guo;G Wu
+Representation learning for clustering via building consensus,Hard Regularization to Prevent Deep Online Clustering Collapse without Data Augmentation,L Mahon;T Lukasiewicz
+Representation learning for clustering via building consensus,Hard Regularization to Prevent Collapse in Online Deep Clustering without Data Augmentation,L Mahon;T Lukasiewicz
+Representation learning for clustering via building consensus,Domain-Agnostic Clustering with Self-Distillation,M Adnan;YA Ioannou;CY Tsai;GW Taylor
+Representation learning for clustering via building consensus,DivClust: Controlling Diversity in Deep Clustering,I Maniadis Metaxas;G Tzimiropoulos;I Patras
+Representation learning for clustering via building consensus,Entropy in Unsupervised Machine Learning,Z Li
+Representation learning for clustering via building consensus,Yet another image clustering framework using deep learning,R Sundareswaran
+Distributed SGD generalizes well under asynchrony,Stability-based generalization analysis of the asynchronous decentralized SGD,X Deng;T Sun;S Li;D Li
+Distributed SGD generalizes well under asynchrony,Slow and stale gradients can win the race,S Dutta;J Wang;G Joshi
+Distributed SGD generalizes well under asynchrony,A simplified convergence theory for Byzantine resilient stochastic gradient descent,L Roberts;E Smyth
+Distributed SGD generalizes well under asynchrony,Towards Understanding the Generalizability of Delayed Stochastic Gradient Descent,X Deng;L Shen;S Li;T Sun;D Li;D Tao
+Distributed SGD generalizes well under asynchrony,Learning at the Edge under Resource Constraints,JR Regatti
+Distributed SGD generalizes well under asynchrony,Scaling the Wild: Decentralizing Hogwild!-style Shared-memory SGD,B Chatterjee;V Kungurtsev;D Alistarh
+Conditional moment alignment for improved generalization in federated learning,UNIDEAL: Curriculum Knowledge Distillation Federated Learning,Y Yang;C Liu;X Cai;S Huang;H Lu
+Conditional moment alignment for improved generalization in federated learning,Model-Heterogeneous Federated Learning for Internet of Things: Enabling Technologies and Future Directions,B Fan;S Jiang;X Su;P Hui
+Conditional moment alignment for improved generalization in federated learning,MAPL: Model Agnostic Peer-to-peer Learning,S Mukherjee;A Simonetto;H Jamali-Rad
+Conditional moment alignment for improved generalization in federated learning,AI‐EDGE: An NSF AI institute for future edge networks and distributed intelligence,P Ju;C Li;Y Liang;N Shroff
+Offline RL with resource constrained online deployment,Learning in pomdps is sample-efficient with hindsight observability,J Lee;A Agarwal;C Dann
+Offline RL with resource constrained online deployment,Finite sample analysis of minmax variant of offline reinforcement learning for general MDPs,JR Regatti;A Gupta
+Offline RL with resource constrained online deployment,A Study on Designing a Deep Reinforcement Learning Library towards Practical Applications,T Seno
+Offline RL with resource constrained online deployment,Learning at the Edge under Resource Constraints,JR Regatti
+A discussion of artificial intelligence applications in sic mosfet device operation,Real‐time monitoring and ageing detection algorithm design with application on SiC‐based automotive power drive system,P Dini;G Basso;S Saponara
+A discussion of artificial intelligence applications in sic mosfet device operation,Intelligent Traction Inverter in Next Generation Electric Vehicles: The Health Monitoring of Silicon-Carbide Power Modules,C Pino;A Sitta;G Castagnolo
+A discussion of artificial intelligence applications in sic mosfet device operation,Dynamic Current Sharing Optimization of Asymmetric SiC Power Module,PP Kubulus;JD Meinert;SM Beczkowski
+A discussion of artificial intelligence applications in sic mosfet device operation,Enhancing Remaining Useful Life Predictions in Predictive Maintenance of MOSFETs: The Efficacy of Integrated Particle Filter-Gaussian Process Regression Models.,EF Hadi;MZ Baharuddin;AWM Zuhdi
+Information content in neuronal calcium spike trains: Entropy rate estimation based on empirical probabilities,Correlation in neuronal calcium spiking: Quantification based on empirical mutual information rate,S Ande;S Avasarala;A Karunarathne;L Giri
+Information content in neuronal calcium spike trains: Entropy rate estimation based on empirical probabilities,Heterogeneity in Neuronal Calcium Spike Trains based on Empirical Distance,S Ande;JR Regatti;N Pandey
+Information content in neuronal calcium spike trains: Entropy rate estimation based on empirical probabilities,Statistical Dependence between Neuronal Spike Train Pairs: Quantification based on Empirical Mutual Information Rate,S Ande;S Avasarala;A Karunarathne
+Finite sample analysis of minmax variant of offline reinforcement learning for general MDPs,Deep reinforcement learning based multi-level dynamic reconfiguration for urban distribution network: a cloud-edge collaboration architecture,S Jiang;H Gao;X Wang;J Liu;K Zuo
+Intelligent Health Monitoring System Hardware Design for Paralleled Devices with Fast Dv/dt Output,Challenges and Implementation of Online in-Situ RDSON Measurement in a Three-Phase Inverter,C Roy;N Kim;D Evans;J Gafford
+Heterogeneity in Neuronal Calcium Spike Trains based on Empirical Distance,Correlation in neuronal calcium spiking: Quantification based on empirical mutual information rate,S Ande;S Avasarala;A Karunarathne;L Giri

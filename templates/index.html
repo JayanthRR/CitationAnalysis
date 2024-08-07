@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Authors</title>
+</head>
+<body>
+    <h1>Select an Author</h1>
+    <ul>
+        {% for author in authors %}
+        <li><a href="/details/{{ author }}">{{ author }}</a></li>
+        {% endfor %}
+    </ul>
+    <!-- <a href="/add_author">Add a New Author</a><br> -->
+    <a href="/save">Save Data</a><br>
+    <a href="/close">Close Application</a>
+</body>
+</html>
