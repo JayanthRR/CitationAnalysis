@@ -3,51 +3,50 @@
 <head>
     <meta charset="UTF-8">
     <title>Details for {{ author }}</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        td {
+            word-break: break-word; /* Ensure long text breaks into multiple lines */
+        }
+    </style>
 </head>
 <body>
-    <h1>Citation details of {{ author }}</h1>
+    <h1>Details for {{ author }}</h1>
     <table border="1">
         <tr>
             <th>Publication</th>
             <th>Citing Publication</th>
             <th>Authors</th>
+            <!-- <th>Num Authors</th> -->
         </tr>
-        {% for row in rows_b %}
+        {% for row in rows %}
         <tr>
             <td>{{ row.Publication }}</td>
-            <th>{{ row['Cited Publication']}}</th>
+            <td>{{ row['Cited Publication'] }}</td>
             <td>{{ row.Authors }}</td>
+            <!-- <td>{{ row['Num authors'] }}</td> -->
         </tr>
         {% endfor %}
     </table>
-    <h2>Affiliation and Domain of {{ author }}</h2>
-    <table border="1">
-        <tr>
-            <th>Affiliation</th>
-            <th>Domain</th>
-            <th>Country</th>
-            <th>Continent</th>
-        </tr>
-        {% for row in rows_c %}
-        <tr>
-            <td>{{ row.affiliation }}</td>
-            <td>{{ row.domain }}</td>
-            <td>{{ row.country }}</td>
-            <td>{{ row.continent }}</td>
-        </tr>
-        {% endfor %}
-    </table>
-    <h3>Update Values</h3>
+    <h2>Update Author Information</h2>
     <form method="post">
-        <label for="affiliation">affiliation:</label>
-        <input type="text" id="affiliation" name="affiliation" required><br><br>
-        <label for="domain">domain:</label>
-        <input type="text" id="domain" name="domain" required><br><br>
-        <label for="country">country:</label>
-        <input type="text" id="country" name="country" required><br><br>
-        <label for="continent">continent:</label>
-        <input type="text" id="continent" name="continent" required><br><br>
-        <input type="submit" value="Update">
+        <label for="affiliation">Affiliation:</label>
+        <input type="text" id="affiliation" name="affiliation" value="{{ author.affiliation }}"><br><br>
+        <label for="domain">Domain:</label>
+        <input type="text" id="domain" name="domain" value="{{ author.domain }}"><br><br>
+        <label for="country">Country:</label>
+        <input type="text" id="country" name="country" value="{{ author.country }}"><br><br>
+        <label for="continent">Continent:</label>
+        <input type="text" id="continent" name="continent" value="{{ author.continent }}"><br><br>
+        <input type="submit" value="Save">
     </form>
     <a href="/">Back to Author List</a>
 </body>
