@@ -1,0 +1,17 @@
+              EnablePostJobValidation="true"
+
+              <FileCollection Direction="Outbound">
+                <FileReference>
+                    <Path>/local/shared/Axia/PROD/TG_2/AxiaInput/</Path>
+                    <Name>%Y/%m/%d/DataOutbound.ss</Name>
+                    <ParameterName>DataOutbound</ParameterName>
+                </FileReference>
+            </FileCollection>
+
+            
+            OUTPUT Axia
+            TO SSTREAM @DataOutbound 
+            HASH CLUSTERED BY RGUID
+            WITH STREAMEXPIRY "90";
+            
+            

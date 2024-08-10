@@ -45,6 +45,7 @@
             <th>Domain</th>
             <th>Country</th>
             <th>Continent</th>
+            <th>Completed</th>
         </tr>
         {% for index, row in authors.iterrows() %}
         <tr>
@@ -53,6 +54,7 @@
             <td>{{ row.domain }}</td>
             <td>{{ row.country }}</td>
             <td>{{ row.continent }}</td>
+            <td>{{ row.Completed }}</td>
         </tr>
         {% endfor %}
     </table>
