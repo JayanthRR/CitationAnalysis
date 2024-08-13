@@ -33,26 +33,26 @@ A Gupta,2,Ohio State University,@osu.edu,USA,North America,True
 X Deng,2,National University of Defense Technology,nudt.edu.cn,China,Asia,True
 V Narayanan,2,IITH,iith.ac.in,India,Asia,True
 N Gupta,2,EPFL,,Switzerland,Europe,True
-Z Li,2,UC Berkeley,,United States,North America,False
-A Barsi,2,Holografika,,Hungary,Europe,False
+Z Li,2,UC Berkeley,,United States,North America,True
+A Barsi,2,Holografika,,Hungary,Europe,True
 J Chen,2, Fudan University,fudan.edu.cn,China,Asia,True
-C Rawlins,2,Missouri University of Science and Technology,,United States,North America,False
-E Gorbunov,2,,,,,False
-L Mahon,2,,,,,False
-T Lukasiewicz,2,,,,,False
+C Rawlins,2,Missouri University of Science and Technology,,United States,North America,True
+E Gorbunov,2,Mohamed bin Zayed University of Artificial Intelligence,mbzuai.ac.ae,UAE,Asia,True
+L Mahon,2,University of Edinburgh,ed.ac.uk,UK,Europe,True
+T Lukasiewicz,2,Vienna University of Technology,tuwien.ac.at,Austria,Europe,True
 J Zhang,2, Fudan University,fudan.edu.cn,China,Asia,True
-Y Yan,2,,,,,False
-R Sundareswaran,2,,,,,False
-AP Singh,2,,,,,False
-P Richtárik,2,,,,,False
-J He,2,,,,,False
+Y Yan,2,Xi’an Jiaotong University,stu.xjtu.edu.cn,China,Asia,True
+R Sundareswaran,2,Iowa State University,iastate.edu,United States,North America,True
+AP Singh,2,Iowa State University,iastate.edu,United States,North America,True
+P Richtárik,2,KAUST,kaust.edu.sa,Saudi Arabia,Asia,True
+J He,2,UIUC,illinois.edu,United States,North America,True
 L Lyu,2,NUS,,Singapore,Asia,True
-S Horváth,2,,,,,False
+S Horváth,2,KAUST,kaust.edu.sa,Saudi Arabia,Asia,True
 Y Liang,2,Zhuhai College of Science and Technology,,China,Asia,True
 I Maniadis Metaxas,2,Queen Mary University of London,qmul.ac.uk,UK,Europe,True
-C Li,2,,,,,False
-H Liu,2,,,,,False
-IM Metaxas,2,,,,,False
+C Li,2,Ohio State University,osu.edu,United States,North America,True
+H Liu,2,,sjtu.edu.cn,China,Asia,True
+IM Metaxas,2,Queen Mary University of London,qmul.ac.uk,UK,Europe,True
 Z Huang,2,Fudan University,fudan.edu.cn,China,Asia,True
 A Ramamoorthy,2,Iowa State University,iastate.edu,United States,North America,True
 R Qian,2,SJTU,sjtu.edu.cn,China,Asia,True
@@ -60,153 +60,153 @@ AS Avestimehr,2,University of Southern California,usc.edu,United States,North Am
 X Xu,2,NUS,,Singapore,Asia,True
 P Zhao,1,Zhejiang Lab,zhejianglab.com,China,Asia,True
 A Marcu,1,Institute of Mathematics of the Romanian Academy,upb.ro,Romania,Europe,True
-JD Meinert,1,,,,,False
-M Teuffenbach,1,,,,,False
-P Weber,1,,,,,False
-F Xu,1,,,,,False
-G Malinovsky,1,,,,,False
-H Wu,1,,,,,False
+JD Meinert,1,Aalborg University,energy.aau.dk,Denmark,Europe,True
+M Teuffenbach,1,University of Vienna,univie.ac.at,Austria,Europe,True
+P Weber,1,University of Vienna,univie.ac.at,Austria,Europe,True
+F Xu,1,Xi'an Jiaotong University,,China,Asia,True
+G Malinovsky,1,KAUST,kaust.edu.sa,Saudi Arabia,Asia,True
+H Wu,1,East China Normal University,,China,Asia,True
 Y Zhou,1,Jilin University,,China,Asia,True
-J Wu,1,,,,,False
+J Wu,1,UIUC,illinois.edu,United States,North America,True
 X Liu,1,The Chinese University of Hong Kong,,Hong Kong,Asia,True
-MZ Baharuddin,1,,,,,False
-G Castagnolo,1,,,,,False
-Z Shen,1,,,,,False
-S Saponara,1,,,,,False
-D Evans,1,,,,,False
-SM Beczkowski,1,,,,,False
+MZ Baharuddin,1,,,Malaysia,Asia,True
+G Castagnolo,1,STMicroelectronics.com,st.com,Italy,Europe,True
+Z Shen,1,University College London,,UK,Europe,True
+S Saponara,1,University of Pisa,,Italy,Europe,True
+D Evans,1,University of North Carolina at Charlotte,,United States,North America,True
+SM Beczkowski,1,Aalborg University,energy.aau.dk,Denmark,Europe,True
 H Yu,1,NTU,,Singapore,Asia,True
-L Shen,1,,,,,False
-T Phisannupawong,1,,,,,False
-B Chatterjee,1,,,,,False
-R Yan,1,,,,,False
-GW Taylor,1,,,,,False
-S Sun,1,,,,,False
+L Shen,1,,,China,Asia,True
+T Phisannupawong,1,Korea Advanced Institute of Science and Technology,kaist.ac.kr,Korea,Asia,True
+B Chatterjee,1,IIIT Delhi,iiitd.ac.in,India,Asia,True
+R Yan,1,Xi’an Jiaotong University,stu.xjtu.edu.cn,China,Asia,True
+GW Taylor,1,University of Guelph,uoguelph.ca,Canada,North America,True
+S Sun,1,,,China,Asia,True
 J See,1,Heriot-Watt University Malaysia,hw.ac.uk,Malaysia,Asia,True
-M Wang,1,,,,,False
+M Wang,1,eBay,zju.edu.cn,China,Asia,True
 B Fan,1,University of Helsinki,helsinki.fi,Finland,Europe,True
-Y LeCun,1,,,,,False
-D Wang,1,,,,,False
-AR Ghavamipour,1,,,,,False
-C Roy,1,,,,,False
+Y LeCun,1,Facebook AI Research,fb.com,United States,North America,True
+D Wang,1,KAUST,,Saudi Arabia,Asia,True
+AR Ghavamipour,1,University of Groningen,rug.nl,Netherlands,Europe,True
+C Roy,1,University of North Carolina at Charlotte,,United States,North America,True
 SL Huang,1,Tshingua University,,China,Asia,True
-C Yang,1,,,,,False
-J Lee,1,,,,,False
-N Shroff,1,,,,,False
-K Zuo,1,,,,,False
-G Basso,1,,,,,False
-FT Sommer,1,UC Berkeley,,United States,North America,False
-HL Choi,1,,,,,False
-W Zhang,1,,,,,False
-L Miklautz,1,,,,,False
-J Ghaderi,1,,,,,False
-Y Yang,1,,,,,False
-BZH Zhao,1,,,,,False
-J Gafford,1,,,,,False
-N Kermiche,1,,,,,False
-P Ju,1,,,,,False
-L Errami,1,,,,,False
-X Su,1,,,,,False
+C Yang,1,Columbia University,columbia.edu,United States,North America,True
+J Lee,1,Stanford,,United States,North America,True
+N Shroff,1,Ohio State University,osu.edu,United States,North America,True
+K Zuo,1,Stevens institute of technology,,United States,North America,True
+G Basso,1,University of Pisa,,Italy,Europe,True
+FT Sommer,1,UC Berkeley,,United States,North America,True
+HL Choi,1,Korea Advanced Institute of Science and Technology,kaist.ac.kr,Korea,Asia,True
+W Zhang,1,Northwest university,,China,Asia,True
+L Miklautz,1,University of Vienna,univie.ac.at,Austria,Europe,True
+J Ghaderi,1,Columbia University,columbia.edu,United States,North America,True
+Y Yang,1, Shanghai Jiao Tong University,sjtu.edu.cn,China,Asia,True
+BZH Zhao,1,Macquarie University,mq.edu.au,Australia,Australia,True
+J Gafford,1,University of North Carolina at Charlotte,,United States,North America,True
+N Kermiche,1,WDC,wdc.com,United States,North America,True
+P Ju,1,Ohio State University,osu.edu,United States,North America,True
+L Errami,1,Mohammed VI Polytechnic University,um6p.ma,Morocco,Africa,True
+X Su,1,Norwegian university of science and technology,ntnu.no,Norway,Europe,True
 S Dutta,1,CMU,,USA,North America,True
-J Herrera-Gerena,1,,,,,False
-A Sitta,1,,,,,False
-H Jamali-Rad,1,,,,,False
+J Herrera-Gerena,1,Iowa State University,iastate.edu,United States,North America,True
+A Sitta,1,STMicroelectronics.com,st.com,Italy,Europe,True
+H Jamali-Rad,1,Shell Global Solutions International B.V,,Netherlands,Europe,True
 J Regatti,1,Microsoft,,USA,North America,True
-K Lamichhane,1,,,,,False
-G Gidel,1,,,,,False
+K Lamichhane,1,,,Italy,Europe,True
+G Gidel,1,University of Montreal,umontreal.ca,Canada,North America,True
 K Park,1,Samsung,,South Korea,Asia,True
 Y Xiao,1,Jilin University,,China,Asia,True
-C Liu,1,,,,,False
-YA Ioannou,1,,,,,False
+C Liu,1, Shanghai Jiao Tong University,sjtu.edu.cn,China,Asia,True
+YA Ioannou,1,University of Calgary,,Canada,North America,True
 P Hui,1,University of Helsinki,helsinki.fi,Finland,Europe,True
-A Borzunov,1,,,,,False
+A Borzunov,1,Higher school of economics,hse.ru,Russia,Asia,True
 S Channappayya,1,IITH,iith.ac.in,India,Asia,True
-N Lu,1,,,,,False
-DN Yaldiz,1,,,,,False
-Y Guo,1,,,,,False
+N Lu,1,Xi’an Jiaotong University,stu.xjtu.edu.cn,China,Asia,True
+DN Yaldiz,1,University of Southern California,usc.edu,United States,North America,True
+Y Guo,1,,,China,Asia,True
 S Farhadkhani,1,EPFL,,Switzerland,Europe,True
-X Wang,1,,,,,False
-J Qin,1,,,,,False
+X Wang,1,,,China,Asia,True
+J Qin,1, Nanjing University of Aeronautics and Astronautics,nuaa.edu.cn,China,Asia,True
 H Kang,1,Samsung,,South Korea,Asia,True
-X Cai,1,,,,,False
-CY Tsai,1,,,,,False
-X Qiu,1,,,,,False
-AWM Zuhdi,1,,,,,False
-A Kumar,1,,,,,False
-G Wu,1,,,,,False
-A Rammal,1,,,,,False
+X Cai,1, Shanghai Jiao Tong University,sjtu.edu.cn,China,Asia,True
+CY Tsai,1,Vector Institute of AI,vectorinstitute.ai,Canada,North America,True
+X Qiu,1,,,Hungary,Europe,True
+AWM Zuhdi,1,,,Malaysia,Asia,True
+A Kumar,1,,,Korea,Asia,True
+G Wu,1,,,China,Asia,True
+A Rammal,1,,,France,Europe,True
 S Kar,1,CMU,,United States,Asia,True
-PP Kubulus,1,,,,,False
-N Kim,1,,,,,False
+PP Kubulus,1,Aalborg University,energy.aau.dk,Denmark,Europe,True
+N Kim,1,University of North Carolina at Charlotte,,United States,North America,True
 E Haller,1,Institute of Mathematics of the Romanian Academy,upb.ro,Romania,Europe,True
-C Dann,1,,,,,False
-EH Bergou,1,,,,,False
-Z Xiang,1,,,,,False
-O Ersoy,1,,,,,False
-DG Lee,1,,,,,False
-Y Shen,1,,,,,False
+C Dann,1,Hong Kong University of Science and Tehcnology,,Hong Kong,Asia,True
+EH Bergou,1,Mohammed VI Polytechnic University,um6p.ma,Morocco,Africa,True
+Z Xiang,1,KAUST,,Saudi Arabia,North America,True
+O Ersoy,1,Delft University of Technology,ru.nl,Netherlands,Europe,True
+DG Lee,1,,,Korea,Asia,True
+Y Shen,1,University of Oxford,,UK,Europe,True
 Q Wang,1,Wuhan University,,China,Asia,True
-VA Szakal,1,,,,,False
-LEC La Rosa,1,,,,,False
-S Mukherjee,1,,,,,False
-H Gao,1,,,,,False
-T Seno,1,,,,,False
+VA Szakal,1,,,Hungary,Europe,True
+LEC La Rosa,1,University of Rio de Janeiro,,Brazil,South America,True
+S Mukherjee,1,Delft University of Technology,,Netherlands,Europe,True
+H Gao,1,Sichuan University,,China,Asia,True
+T Seno,1,,,Japan,Asia,True
 J Xu,1,Tshingua University,,China,Asia,True
-L Roberts,1,,,,,False
-W Lin,1,,,,,False
-H Fu,1,,,,,False
-KI Kim,1,,,,,False
-F Tombari,1,,,,,False
+L Roberts,1,,,Australia,Australia,True
+W Lin,1,HKPU,,China,Asia,True
+H Fu,1,The education university of hong kong,,Hong Kong,Asia,True
+KI Kim,1,,,Korea,Asia,True
+F Tombari,1,,,Germany,Europe,True
 H Chen,1,Ohio State University,,USA,North America,True
 S Joe,1,Samsung,,South Korea,Asia,True
 T Lan,1,George Washington University,,United States,North America,True
 D Lin,1,The Chinese University of Hong Kong,,Hong Kong,Asia,True
-A Zareian,1,,,,,False
+A Zareian,1,,,Germany,Europe,True
 R Pinot,1,EPFL,,Switzerland,Europe,True
 C Troncoso,1,EPFL,,Switzerland,Europe,True
-D Alistarh,1,,,,,False
-H Lu,1,,,,,False
-T Wang,1,,,,,False
-J Yin,1,,,,,False
-W Bao,1,,,,,False
-A Simonetto,1,,,,,False
-E Shafiee,1,,,,,False
-N Bisht,1,,,,,False
+D Alistarh,1,Institute of Science and Technology,ist.ac.at,Austria,Europe,True
+H Lu,1, Shanghai Jiao Tong University,sjtu.edu.cn,China,Asia,True
+T Wang,1,University of Virginia,,United States,North America,True
+J Yin,1,,,China,Asia,True
+W Bao,1,UIUC,illinois.edu,United States,North America,True
+A Simonetto,1,"s, Institut Polytechnique de Paris",,France,Europe,True
+E Shafiee,1,Kingston University London,,UK,Europe,True
+N Bisht,1,,,India,Asia,True
 D Costea,1,Institute of Mathematics of the Romanian Academy,upb.ro,Romania,Europe,True
-Y Chen,1,UC Davis,ucdavis.edu,United States,North America,False
-G Zhou,1,,,,,False
+Y Chen,1,UC Davis,ucdavis.edu,United States,North America,True
+G Zhou,1,,,United States,North America,True
 G Joshi,1,CMU,,USA,North America,True
-C Pino,1,,,,,False
-N Fedin,1,,,,,False
-M Adnan,1,,,,,False
-A Agarwal,1,,,,,False
-P Dini,1,,,,,False
-S Huang,1,,,,,False
-M Neri,1,,,,,False
-E Smyth,1,,,,,False
-J Liu,1,,,,,False
-EF Hadi,1,,,,,False
-H Coskun,1,,,,,False
-W Cappelletti,1,,,,,False
-M Diskin,1,,,,,False
-T Zhang,1,,,,,False
-F Battisti,1,,,,,False
-B Appina,1,,,,,False
-S Prakash,1,,,,,False
-Q Xinyu,1,,,,,False
+C Pino,1,STMicroelectronics.com,st.com,Italy,Europe,True
+N Fedin,1,,,Russia,Asia,True
+M Adnan,1,University of Guelph,uoguelph.ca,Canada,North America,True
+A Agarwal,1,Google Research,,United States,North America,True
+P Dini,1,University of Pisa,,Italy,Europe,True
+S Huang,1, Shanghai Jiao Tong University,sjtu.edu.cn,China,Asia,True
+M Neri,1,,,Italy,Europe,True
+E Smyth,1,,,Australia,Australia,True
+J Liu,1,Sichuan University,,China,Asia,True
+EF Hadi,1,,,Malaysia,Asia,True
+H Coskun,1,,,Germany,Europe,True
+W Cappelletti,1,,,Switzerland,Europe,True
+M Diskin,1,Higher school of economics,hse.ru,Russia,Asia,True
+T Zhang,1,University of Southern California,usc.edu,United States,North America,True
+F Battisti,1,,,Italy,Europe,True
+B Appina,1,IITH,,India,Asia,True
+S Prakash,1,University of Southern California,usc.edu,United States,North America,True
+Q Xinyu,1,,,Hungary,Europe,True
 S Yu,1,CMU,,United States,Asia,True
-V Kungurtsev,1,,,,,False
-K Gruntkowska,1,,,,,False
-JL Moore,1,,,,,False
-DAB Oliveira,1,,,,,False
-JJ Damanik,1,,,,,False
-B Li,1,,,,,False
+V Kungurtsev,1,Czech Technical University in Prague,fel.cvut.cz,Czech,Europe,True
+K Gruntkowska,1,KAUST,,Saudi Arabia,Asia,True
+JL Moore,1,,,United States,North America,True
+DAB Oliveira,1,University of Rio de Janeiro,,Brazil,South America,True
+JJ Damanik,1,Korea Advanced Institute of Science and Technology,kaist.ac.kr,Korea,Asia,True
+B Li,1,Xi’an Jiaotong University,,China,Asia,True
 N Pandey,1,IITH,iith.ac.in,India,Asia,True
 M Pirvu,1,Institute of Mathematics of the Romanian Academy,upb.ro,Romania,Europe,True
 J Wang,1,CMU,,USA,North America,True
 B Kim,1,Samsung,,South Korea,Asia,True
 X Wu,1,Jilin University,,China,Asia,True
-D Tao,1,,,,,False
+D Tao,1,,,China,Asia,True
 J Just,1,Iowa State University,iastate.edu,United States,North America,True
 S Jagannathan,1,University of Missori-Rolla,mst.edu,United States,North America,True
 M Raynal,1,EPFL,,Switzerland,Europe,True
